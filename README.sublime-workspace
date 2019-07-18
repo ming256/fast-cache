@@ -1,0 +1,612 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"components"
+			],
+			[
+				"He",
+				"helloWorld"
+			],
+			[
+				"Vue",
+				"VueRouter"
+			],
+			[
+				"chan",
+				"changeTitle"
+			],
+			[
+				"cha",
+				"changeTitle"
+			],
+			[
+				"de",
+				"deteleUser"
+			],
+			[
+				"flex-",
+				"flex-basis\tproperty"
+			],
+			[
+				"list-s",
+				"list-style-type\tproperty"
+			],
+			[
+				"fl",
+				"flex\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"vue",
+				"vue-app-one"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"chang",
+				"changeLength"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"a",
+				"age"
+			],
+			[
+				"le",
+				"leBtn"
+			],
+			[
+				"st",
+				"startMove"
+			],
+			[
+				"opa",
+				"opacity"
+			],
+			[
+				"get",
+				"getStyle"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"o",
+				"oDiv"
+			],
+			[
+				"s",
+				"sClass"
+			],
+			[
+				"do",
+				"Document"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"to",
+				"top\tproperty"
+			],
+			[
+				"ch",
+				"changeColor"
+			],
+			[
+				"i",
+				"iTarget"
+			],
+			[
+				"al",
+				"alpha"
+			],
+			[
+				"time",
+				"timer"
+			],
+			[
+				"t",
+				"tBodies"
+			],
+			[
+				"arr",
+				"arr1"
+			],
+			[
+				"ob",
+				"oBtn4"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"bo",
+				"tBodies"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"ot",
+				"oTab"
+			],
+			[
+				"T",
+				"tBodies"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"of",
+				"offsetWidth"
+			],
+			[
+				"off",
+				"offsetWidth"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"tim",
+				"timer"
+			],
+			[
+				"odiv",
+				"oDiv2"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"oD",
+				"oDate"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"fle",
+				"flex\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"border-rad",
+				"border-radius\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"tran",
+				"translateY()\ttransform"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"rot",
+				"rotateY()\ttransform"
+			],
+			[
+				"fla",
+				"float\tproperty"
+			],
+			[
+				"mar-",
+				"margin-left\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"f",
+				"float\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"em",
+				"embed\tTag"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"acc",
+				"accesskey\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"auto",
+				"autocomplete\tAttr"
+			],
+			[
+				"da",
+				"datalist\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"bas",
+				"base\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 378.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			]
+		],
+		"width": 666.0
+	},
+	"console":
+	{
+		"height": 198.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/vue学习/my-vue/src/main.js",
+		"/D/vue学习/my-vue/src/components/Home.vue",
+		"/D/vue学习/my-vue/src/components/Users.vue",
+		"/D/vue学习/my-vue/src/App.vue",
+		"/D/vue学习/my-vue/src/components/HelloWorld.vue",
+		"/D/vue学习/my-vue/src/components/Header.vue",
+		"/D/vue学习/my-vue/src/components/Footer.vue",
+		"/D/node/project/src/main.js",
+		"/D/node/project/src/App.vue",
+		"/D/Sublime/process/vue-playlist/vue组件.html",
+		"/D/Sublime/process/vue-playlist/vue组件.js",
+		"/D/Sublime/process/vue-playlist/index.html",
+		"/D/Sublime/process/vue-playlist/app.js",
+		"/D/Sublime/process/vue-playlist/多个VUE对象.html",
+		"/D/Sublime/process/vue-playlist/20190711.js",
+		"/D/Sublime/process/20190710/20190710.css",
+		"/D/Sublime/process/20190710/20190710.js",
+		"/D/Sublime/process/20190710/20190710.html",
+		"/D/Sublime/process/vue-playlist/20190710.html",
+		"/D/Sublime/process/vue-playlist/20190710.js",
+		"/D/Sublime/process/vue-playlist/20190710.css",
+		"/D/Sublime/process/vue-playlist/style.css",
+		"/D/Sublime/process/仿flash动画.html",
+		"/D/Sublime/process/多DIV运动.html",
+		"/D/Sublime/process/运动.html",
+		"/D/Sublime/process/表格.html",
+		"/D/Sublime/process/无缝滚动.html",
+		"/D/Sublime/process/延时提示框.html",
+		"/D/Sublime/process/clock.html",
+		"/D/Sublime/process/rili.html",
+		"/D/Sublime/process/日历.html",
+		"/D/Sublime/process/20190612.html",
+		"/D/Sublime/process/显示隐藏.html",
+		"/D/Sublime/process/京东.html",
+		"/D/Sublime/process/携程网.html",
+		"/D/Sublime/process/开门大吉.html",
+		"/D/Sublime/process/滑动门.html",
+		"/D/Sublime/process/微信导航栏.html",
+		"/D/Sublime/process/xiaomi_index.html",
+		"/D/Sublime/process/index.html",
+		"/D/Sublime/process/20190506.html",
+		"/D/Sublime/process/20190505.html",
+		"/D/Sublime Text 3/Html5/20190110a.html",
+		"/D/Sublime Text 3/Html5/1027.html",
+		"/D/Sublime Text 3/Html5/20190110.html",
+		"/D/Sublime Text 3/Html5/20190108.html",
+		"/D/Sublime Text 3/Html5/20190103.html",
+		"/D/Sublime Text 3/Html5/1129(2).html",
+		"/D/Sublime Text 3/Html5/1129(1).html",
+		"/D/Sublime Text 3/Html5/1129.html",
+		"/D/Sublime Text 3/1027.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
